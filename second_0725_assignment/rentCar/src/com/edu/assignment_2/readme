@@ -1,0 +1,7 @@
+Car 车，即车的属性
+loadInformation 将数据库中文件载入，放入一个Car型数组中
+Menu 进入程序入口
+Rent 租车界面
+Result 展示租车完结果页面
+Show 展示所有车信息界面
+Start 开始界面
