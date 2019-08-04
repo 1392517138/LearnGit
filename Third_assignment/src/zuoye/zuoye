@@ -1,0 +1,5 @@
+Library类:
+一个成员变量记录书本数
+两个方法back():还书 lend():借书
+
+一个条件 Condition lender，即书为0时需等待
